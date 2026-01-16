@@ -29,7 +29,7 @@ Each activity is organized by topic. Links below point to the associated files o
 ### Programming Fundamentals
 
 - **Arrays**
-  -[`arrays.cpp`](arrays.cpp)
+  - [`arrays.cpp`](arrays.cpp)
 ---
 
 ### Strings and Characters
