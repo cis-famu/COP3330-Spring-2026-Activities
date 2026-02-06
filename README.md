@@ -38,7 +38,13 @@ Each activity is organized by topic. Links below point to the associated files o
   - [`caesar_cipher.cpp`](caesar_cipher.cpp)
 
 
+### Classes
 
+- **Parking Meter Examplar**
+  - [ParkingMeter Examplar Assignment](/ParkingMeter_Assignment/README.md)
+
+- **Student Organization**
+  - [StudentOrganization Class](/StudentOrganization/README.md)
 
 ---
 
