@@ -41,10 +41,10 @@ Each activity is organized by topic. Links below point to the associated files o
 ### Classes
 
 - **Parking Meter Examplar**
-  - [ParkingMeter Examplar Assignment](/ParkingMeter_Assignment/README.md)
+  - [ParkingMeter Examplar Assignment](/ParkingMeter_Assignment/)
 
 - **Student Organization**
-  - [StudentOrganization Class](/StudentOrganization/README.md)
+  - [StudentOrganization Class](/StudentOrganization/)
 
 ---
 
