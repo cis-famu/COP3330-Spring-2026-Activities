@@ -37,6 +37,7 @@ Each activity is organized by topic. Links below point to the associated files o
 - **Caesar Cipher (ASCII and Wrap-Around Logic)**  - This C++ program implements a Caesar cipher encryption algorithm, a classical substitution cipher that shifts each letter in the input text by a fixed number of positions in the alphabet. The user provides plaintext input and a shift key (1-25), and the program encrypts the message by applying the specified shift while preserving non-alphabetic characters. This implementation demonstrates fundamental concepts in cryptography, string manipulation, and ASCII character encoding.
   - [`caesar_cipher.cpp`](caesar_cipher.cpp)
 
+---
 
 ### Classes
 
