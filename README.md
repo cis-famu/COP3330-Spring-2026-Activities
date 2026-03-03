@@ -47,6 +47,9 @@ Each activity is organized by topic. Links below point to the associated files o
 - **Student Organization** - A hands-on activity designed for HBCU students learning object-oriented programming for the first time. Students build a StudentOrganization class to manage campus groups like SGA and Campus Activities Board, practicing core OOP concepts through relatable scenarios including Homecoming planning, budget management, and member tracking. Includes progressive challenges, complete code solutions, and materials in both Word and Markdown formats.
   - [StudentOrganization Class](/StudentOrganization/)
 
+#### Inheritance
+ - **Shape** - A complete implementation of a Shape class showing inheritance and polymorphic function definitions.
+  - [Shape Classes](/Shape/) 
 ---
 
 ## Notes
