@@ -3,10 +3,10 @@
 
 #include "Vehicle.h"
 
-class GulfCart : public Vehicle {
+class GolfCart : public Vehicle {
 
 	public:
-		GulfCart(const std::string&, const std::string&, const int, const std::string&, const int);
+		GolfCart(const std::string&, const std::string&, const int, const std::string&, const int);
 		void describe()const;
 		void refuel();
 	

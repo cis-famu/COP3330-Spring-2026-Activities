@@ -3,12 +3,12 @@
 
 using namespace std;
 
-GulfCart::GulfCart(const string& make, const string& model, const int level, const string& department, int speed) : Vehicle(make, model, level){
+GolfCart::GolfCart(const string& make, const string& model, const int level, const string& department, int speed) : Vehicle(make, model, level){
 	departmentName = department;
 	maxSpeed = speed;
 }
 
-void GulfCart::describe()const {
+void GolfCart::describe()const {
 	Vehicle::describe();
 
 	cout << "Department: "
@@ -18,7 +18,7 @@ void GulfCart::describe()const {
 		<< maxSpeed << " mph"
 		<< endl;
 }
-void GulfCart::refuel(){
+void GolfCart::refuel(){
 	fuelLevel += 50;
 	if (fuelLevel > 100)
 		fuelLevel = 100;

@@ -33,7 +33,7 @@ int main() {
 	cout << endl << endl
 		<< "===== Golf Cart =====" << endl;
 
-	GulfCart cart("Yamaha", "Drive Square", 34, "Student Government", 19);
+	GolfCart cart("Yamaha", "Drive Square", 34, "Student Government", 19);
 
 	cart.describe();
 	cout << endl;
