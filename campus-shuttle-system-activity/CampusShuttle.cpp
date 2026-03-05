@@ -15,6 +15,6 @@ void CampusShuttle::describe() const {
 void CampusShuttle::refuel() {
 	fuelLevel = 100;
 	cout << "Shuttle on " <<  routeName 
-		<< " refueled to 100%" 
+		<< " Route refueled to 100%" 
 		<< endl;
 }

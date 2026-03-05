@@ -1,5 +1,5 @@
-#ifndef GULF_CART_H
-#define GULF_CART_H
+#ifndef GOLF_CART_H
+#define GOLF_CART_H
 
 #include "Vehicle.h"
 
