@@ -48,8 +48,13 @@ Each activity is organized by topic. Links below point to the associated files o
   - [StudentOrganization Class](/StudentOrganization/)
 
 #### Inheritance
- - **Shape** - A complete implementation of a Shape class showing inheritance and polymorphic function definitions.
-  - [Shape Classes](/Shape/) 
+
+- **Shape** - A complete implementation of a Shape hierarchy demonstrating inheritance and method overriding in C++. A base `Shape` class defines shared attributes and behaviors, which are then extended by derived classes that override key methods to reflect each shape's unique properties. Serves as a clean reference implementation for understanding how derived classes relate to a common base.
+  - [Shape Classes](/Shape/)
+
+- **FAMU Campus Shuttle System** - A guided in-class activity in which students model a campus vehicle fleet using inheritance and method overriding. A base `Vehicle` class captures shared attributes (make, model, and fuel level) and is extended by three derived classes — `CampusShuttle`, `GolfCart`, and `MaintenanceTruck` — each of which introduces its own data members and overrides shared methods to reflect type-specific behavior. The starter code contains intentional errors for students to identify and resolve. Includes a driver file, full class implementations, and a reflection prompt.
+  - [FAMU Campus Shuttle System](/campus-shuttle-system-activity/)
+
 ---
 
 ## Notes
