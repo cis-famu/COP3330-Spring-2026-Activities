@@ -55,6 +55,9 @@ Each activity is organized by topic. Links below point to the associated files o
 - **FAMU Campus Shuttle System** - A guided in-class activity in which students model a campus vehicle fleet using inheritance and method overriding. A base `Vehicle` class captures shared attributes (make, model, and fuel level) and is extended by three derived classes — `CampusShuttle`, `GolfCart`, and `MaintenanceTruck` — each of which introduces its own data members and overrides shared methods to reflect type-specific behavior. The starter code contains intentional errors for students to identify and resolve. Includes a driver file, full class implementations, and a reflection prompt.
   - [FAMU Campus Shuttle System](/campus-shuttle-system-activity/)
 
+- **Employee Payroll System** - A guided in-class activity in which students explore inheritance, virtual functions, and the distinction between static and dynamic binding in C++. A base `Employee` class defines shared attributes (name, hours, and rate) alongside a virtual `calcWage()` method and a non-virtual `printPayStub()` method, and is extended by two derived classes — `HourlyEmployee` and `SalariedEmployee` — each of which introduces type-specific data members and overrides inherited behavior to reflect its payment model. The activity draws student attention to how pointer-declared type versus actual object type affects method resolution, producing three observably different outputs from a single driver. Includes full class implementations, a commented source file, and a README documenting class structure, sample output, and core OOP concepts.
+  - [Employee Payroll](/employee-inheritance/)
+
 ---
 
 ## Notes
